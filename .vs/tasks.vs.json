@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "任务-class01",
+      "appliesTo": "class01.ts",
+      "type": "command"
+    }
+  ]
+}
